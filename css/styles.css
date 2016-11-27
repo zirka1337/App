@@ -1,0 +1,72 @@
+body{
+  background-color: #EAEAEA;
+}
+
+.topbar{
+  text-align: center;
+  max-width: 100%;
+  background-color: #4E9CEA;
+  height: 50px;
+  
+}
+
+.topbar .name_app{
+  margin-top: 0px;
+}
+
+.topbar p{
+  line-height: 50px;
+  font-size: 20px;
+  color: #FFF9F9;
+}
+
+.content-block{
+  float: left;
+}
+
+.menu_bars{
+  margin-top: -71px;
+  float: right;
+  height: 50px;
+}
+
+.panel{
+  background-color: #D3D3D3;
+}
+
+.panel a{
+  color: #911C1C;
+}
+
+.adm_panel {
+  font-size: 18.5px;
+}
+
+.closed{
+  margin-left: -20px;
+  margin-top: -60px;
+  height: 45px;
+  float: left;
+}
+
+.info{
+  margin: 10px 10px;
+}
+
+.gallery .gallery_text{
+  text-align: center;
+}
+
+.bot_hr{
+  background-color: #C5B4A3;
+  height: 1px;
+  border-color: rgba(255, 255, 255, 0.1);
+  width: 180px;
+}
+
+.top_hr{
+  background-color: #C5B4A3;
+  height: 1.1px;
+  border-color: rgba(255, 255, 255, 0.1);
+  width: 180px;
+}
